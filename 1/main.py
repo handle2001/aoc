@@ -40,7 +40,7 @@ def main():
     """Do the thing"""
     day_one = DayOne("input.txt")
     solution = day_one.calculate_distance()
-    print(solution)   
+    print(solution)
 
 if __name__ == "__main__":
     main()
